@@ -34,8 +34,6 @@
   <a href="https://venmo.com/peterthehan"><img alt="Venmo" title="Venmo" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/venmo.svg"></a>
 </p>
 
-[![HitCount](http://hits.dwyl.com/peterthehan/peterthehan.svg)](http://hits.dwyl.com/peterthehan/peterthehan)
-
 <!--
 **peterthehan/peterthehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
