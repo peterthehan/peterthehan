@@ -22,7 +22,7 @@
   <a href="#"><img alt="Destiny 2 - Phos" title="Destiny 2 - Phos" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/destiny.svg"></a>
   <a href="#"><img alt="Epic Games - PeterTheHan" title="Epic Games - PeterTheHan" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/epicgames.svg"></a>
   <a href="#"><img alt="PlayStation - PeterTheHan" title="PlayStation - PeterTheHan" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/playstation.svg"></a>
-  <a href="#"><img alt="Stadia - Phos" title="Stadia - Phos" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/stadia.svg"></a>
+  <a href="https://stadia.com/profile/1536559313706186034"><img alt="Stadia - Phos" title="Stadia - Phos" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/stadia.svg"></a>
   <a href="https://steamcommunity.com/id/peterthehan"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
   <a href="#"><img alt="Warframe - Sumia" title="Warframe - Sumia" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/warframe.svg"></a>
 </p>
