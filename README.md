@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">
-  <a href="https://ko-fi.com/peterthehan"><img alt="Ko-fi" height="32" width="32" src="assets/ko-fi.svg"></a>
+  <a href="https://ko-fi.com/peterthehan"><img alt="Ko-fi" height="32" width="32" src="assets/kofi.svg"></a>
   <a href="https://patreon.com/peterthehan"><img alt="Patreon" height="32" width="32" src="assets/patreon.svg"></a>
   <a href="https://paypal.me/peterthehan"><img alt="PayPal" height="32" width="32" src="assets/paypal.svg"></a>
   <a href="https://venmo.com/peterthehan"><img alt="Venmo" height="32" width="32" src="assets/venmo.svg"></a>
