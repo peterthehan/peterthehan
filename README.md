@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  <a href="https://discord.gg/WjEFnzC"><img alt="Discord - Miku#0039" height="32" width="32" src="assets/discord.svg"></a>
+  <a href="https://discord.gg/WjEFnzC"><img alt="Discord - Miku#0039" title="Discord - Miku#0039" height="32" width="32" src="assets/discord.svg"></a>
   <a href="https://facebook.com/peterthehan"><img alt="Facebook" height="32" width="32" src="assets/facebook.svg"></a>
   <a href="https://imgur.com/user/PeterTheHan"><img alt="Imgur" height="32" width="32" src="assets/imgur.svg"></a>
   <a href="https://myanimelist.net/profile/PeterTheHan"><img alt="MyAnimeList" height="32" width="32" src="assets/myanimelist.svg"></a>
@@ -19,13 +19,13 @@
 </p>
 
 <p align="left">
-  <a href="#"><img alt="Arknights - Phos#3548" height="32" width="32" src="assets/arknights.svg"></a>
-  <a href="#"><img alt="Destiny 2 - Phos" height="32" width="32" src="assets/destiny.svg"></a>
-  <a href="#"><img alt="Epic Games - PeterTheHan" height="32" width="32" src="assets/epicgames.svg"></a>
-  <a href="#"><img alt="PlayStation - PeterTheHan" height="32" width="32" src="assets/playstation.svg"></a>
+  <a href="#"><img alt="Arknights - Phos#3548" title="Arknights - Phos#3548" height="32" width="32" src="assets/arknights.svg"></a>
+  <a href="#"><img alt="Destiny 2 - Phos" title="Destiny 2 - Phos" height="32" width="32" src="assets/destiny.svg"></a>
+  <a href="#"><img alt="Epic Games - PeterTheHan" title="Epic Games - PeterTheHan" height="32" width="32" src="assets/epicgames.svg"></a>
+  <a href="#"><img alt="PlayStation - PeterTheHan" title="PlayStation - PeterTheHan" height="32" width="32" src="assets/playstation.svg"></a>
   <a href="https://stadia.com/profile/1536559313706186034"><img alt="Stadia - Phos" height="32" width="32" src="assets/stadia.svg"></a>
   <a href="https://steamcommunity.com/id/peterthehan"><img alt="Steam" height="32" width="32" src="assets/steam.svg"></a>
-  <a href="#"><img alt="Warframe - Sumia" height="32" width="32" src="assets/warframe.svg"></a>
+  <a href="#"><img alt="Warframe - Sumia" title="Warframe - Sumia" height="32" width="32" src="assets/warframe.svg"></a>
 </p>
 
 <p align="left">
