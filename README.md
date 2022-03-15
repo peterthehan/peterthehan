@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Peter 👋</h1>
+<h3 align="center">Hi, I'm Peter 👋</h3>
 
 <p align="center">
   <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="32" width="32" src="assets/github.svg"></a>
