@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://discord.gg/WjEFnzC">
-    <img alt="Discord" title="Discord" title="" height="48" width="48" src="assets/discord.svg">
+    <img alt="Discord" title="Discord" height="48" width="48" src="assets/discord.svg">
   </a>
   <a href="https://twitter.com/PeterTheHan">
     <img alt="Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg">
