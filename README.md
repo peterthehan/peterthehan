@@ -9,5 +9,5 @@
 <p align="center">
   <a href="https://discord.gg/WjEFnzC"><img alt="Discord" title="Discord" height="48" width="48" src="assets/discord.svg"></a>
   <a href="https://twitter.com/PeterTheHan"><img alt="Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg"></a>
-  <a href="https://youtube.com/channel/UC5QVwln-tycBa-CoB88a7wA"><img alt="YouTube" title="YouTube" height="48" width="48" src="assets/youtube.svg"></a>
+  <a href="https://youtube.com/@peterthehan"><img alt="YouTube" title="YouTube" height="48" width="48" src="assets/youtube.svg"></a>
 </p>
